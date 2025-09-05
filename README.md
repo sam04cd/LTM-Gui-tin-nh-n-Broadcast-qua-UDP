@@ -18,3 +18,12 @@
 [![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
 
 </div>
+## 📌 Giới thiệu
+Đề tài **“Gửi tin nhắn Broadcast qua UDP”** nhằm nghiên cứu và xây dựng chương trình truyền tin trong mạng LAN bằng giao thức UDP với chế độ broadcast.  
+
+Trong mô hình này, một máy tính có thể gửi một gói tin đến **tất cả các thiết bị trong cùng mạng LAN** mà không cần biết địa chỉ IP cụ thể của từng máy. Điều này giúp việc **truyền thông điệp nhanh chóng và tiện lợi**, đặc biệt hữu ích trong các tình huống như:  
+- Gửi thông báo hệ thống cho nhiều người dùng.  
+- Ứng dụng chat nội bộ trong mạng LAN.  
+- Tự động phát hiện dịch vụ (service discovery).  
+
+---
